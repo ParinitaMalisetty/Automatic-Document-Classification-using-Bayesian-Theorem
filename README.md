@@ -30,10 +30,11 @@ pip install pandas numpy scikit-learn nltk
 
 Clone the repository:
 ```bash
-git clone [https://github.com/ParinitaMalisetty/Automatic-Document-Classification-using-Bayesian-Theorem.git](https://github.com/ParinitaMalisetty/Automatic-Document-Classification-using-Bayesian-Theorem.git)
+git clone [https://github.com/ParinitaMalisetty/Automatic-Document-Classification-using-Bayesian-Theorem.git]
 cd Automatic-Document-Classification-using-Bayesian-Theorem
 ```
 Run the main script to train and test the model:
 ```bash
 python main.py  # Replace with your actual script name
 ```
+---
